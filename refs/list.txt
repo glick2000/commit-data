@@ -1,0 +1,2 @@
+# Example references
+/home/eplan/Documents/Mifaley-Hareshet/admin_service/db/action_log_table.py
